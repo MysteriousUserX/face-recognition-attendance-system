@@ -1,0 +1,9 @@
+METRIC_LEARNING MODEL - FACE VERIFICATION RESULTS
+======================================================================
+Model Type: metric_learning
+Embedding Size: 128-dim
+Distance Metric: cosine
+AUC Score: 0.8898
+Optimal Threshold: 0.2587
+Accuracy at Optimal Threshold: 0.8248
+======================================================================

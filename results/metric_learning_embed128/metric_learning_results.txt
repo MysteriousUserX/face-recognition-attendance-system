@@ -1,0 +1,13 @@
+METRIC LEARNING RESULTS
+======================================================================
+Embedding Size: 128-dim
+Model: resnet50
+Embedding Size: 128
+Margin: 0.5
+Mining Strategy: semi-hard
+Distance Metric: cosine
+
+Final AUC: 0.8898
+Optimal Threshold: 0.2587
+Accuracy at Optimal Threshold: 0.8248
+======================================================================

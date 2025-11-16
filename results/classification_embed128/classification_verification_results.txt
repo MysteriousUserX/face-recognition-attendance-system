@@ -1,0 +1,9 @@
+CLASSIFICATION MODEL - FACE VERIFICATION RESULTS
+======================================================================
+Model Type: classification
+Embedding Size: 128-dim
+Distance Metric: cosine
+AUC Score: 0.8662
+Optimal Threshold: 0.1120
+Accuracy at Optimal Threshold: 0.7891
+======================================================================

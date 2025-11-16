@@ -1,0 +1,7 @@
+CLASSIFICATION MODEL RESULTS
+======================================================================
+Embedding Size: 128-dim
+Backbone: resnet50
+Best Validation Accuracy: 0.5036
+Test Accuracy: 0.4958
+======================================================================
