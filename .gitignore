@@ -41,7 +41,7 @@ Thumbs.db
 .ipynb_checkpoints/
 
 # Large datasets (optional - uncomment if datasets are large)
-# train_data/
-# val_data/
-# test_data/
-# verification_data/
+train_data/
+val_data/
+test_data/
+verification_data/
