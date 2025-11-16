@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv310/
+venv/
+env/
+ENV/
+
+# Model Checkpoints (too large for GitHub)
+checkpoints/*.pth
+checkpoints/*.onnx
+checkpoints/classification_embed*/
+checkpoints/metric_learning_embed*/
+
+# Training Results
+results/
+logs/
+
+# Personal Data
+data/registered_faces/
+*.csv
+attendance_log*.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Large datasets (optional - uncomment if datasets are large)
+# train_data/
+# val_data/
+# test_data/
+# verification_data/

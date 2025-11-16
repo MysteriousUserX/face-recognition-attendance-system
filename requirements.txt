@@ -1,0 +1,25 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Computer Vision
+opencv-python>=4.8.0
+pillow>=10.0.0
+
+# GUI
+PyQt5>=5.15.0
+
+# Machine Learning & Metrics
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Anti-Spoofing
+onnxruntime>=1.16.0
+
+# Emotion Detection
+deepface>=0.0.79
+tensorflow>=2.13.0
+
+# Utilities
+tqdm>=4.65.0
